@@ -1,0 +1,90 @@
+
+#form{
+	float: left;
+	margin: 20px 0px 20px 100px;
+	width: 45%;		
+}
+
+#tituloCadastro{
+	float: left;
+	width: 92.5%;
+	font-size:25px; 
+	/* margin: 10px 0 10px 20px; */
+	color: black;
+	position: relative;
+	left: 7.5%;
+	margin-top: 1.5%;
+	margin-bottom: 0%;
+}
+
+#caixaDeImagens{
+	float: left;
+	/* padding: 0 5px 5px 5px; */
+	position: relative;
+	width: 45%;
+	height: 60%;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	margin-left: 2%;
+	bottom: 0;
+}
+#previewImagens{
+	float: left;
+	position: relative;
+	width: 82%;
+	margin-left: 4%;
+	margin-top: 0%;
+	border: 2px solid #333;
+	padding: 0 5px 3px 5px;
+}
+
+#previewImagens h1{
+	float: left;
+	width: 100%;
+	font-size:20px; 
+	margin: 0px 0 10px 0;
+	color: black;
+	font-weight: bolder;
+}
+
+.resenhaLivro{
+	position: relative;
+	margin-left: 4%;
+}
+
+.carousel-item{
+	left: 30%;
+}
+
+.container-fluid{
+	margin: 70px 20px 20px 100px;
+}
+.redimensionarImagem{
+	width: 160px;
+	height: 200px;
+}
+#passarImagem{
+	display: none;
+}
+
+#divButon{
+	width: 55%;
+	position: relative;
+	left: 7.5%;
+	margin-top: 0%;
+}
+#btnSalvar{
+	background-color: rgb(23, 139, 247);
+	border: none;
+	color: white;
+	padding: 8px;
+	font-weight: bolder;
+	font-size: 13pt;
+	border-radius: 5px;
+	width: 40%;
+	/* left: 7.5%; */
+	margin-bottom: 0%;
+	float: left;
+}
+
+

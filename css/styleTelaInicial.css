@@ -1,0 +1,148 @@
+
+.conteudo{
+    min-height: 100%;
+    padding: 20px;
+  }
+ 
+/* Classe do link de login da pagina */
+.acesso{
+    float: right;
+	width: 100%;
+    font-size: 25px;
+	margin: 0.5% 1% 0.5% 1%;
+	text-align: right;
+}
+
+#navbar{
+    padding: 0% auto;
+}
+#imgLogin{
+    float: right;
+    font-size: 25px;
+	margin: 0% 1% 0% 0%;
+	text-align: right;
+}
+
+#container{
+    position: absolute;
+    width: 90%;
+    left: 10%;
+    margin-top: 0%;
+}
+
+.containerInterno{
+	float: left;
+	width: 270px;
+	height: 260px;
+	margin: 0% 0.1% 0.7% 0.2%;
+	padding: 5px 4px 5px 4px;
+	border: 2px solid #cecece;
+    border-radius: 5px;
+}
+
+.card_livro{
+	float: left;
+    margin: 0%  2% 0 0;
+    width: 48%;
+    cursor: pointer;
+    background-color: white;
+}
+.card_livro img{
+    width: 99%;
+	margin: 1%;
+	height: 200px;
+}
+.card_livro img:hover{
+    -webkit-transform: scale(1.3);
+    transition: 0.5s;
+}
+
+.divInformacoes{
+	float: left;
+    margin: 0%  0.2% 0.5% 1%;
+	width: 48%;
+}
+
+.divInformacoes h3{
+	width: 100%;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.divInformacoes h4{
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.divBotoes{
+	float: left;
+    margin-bottom: 0%;
+    margin-top: 3%;
+	width: 100%;
+}
+
+.button{
+	width: 98%;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+	cursor: pointer;
+	padding: 6px;
+}
+
+.buttonVerDetahes{
+	float: right;
+    background-color: darkcyan;
+}
+
+.redimensionarImagem{
+	width: 200px;
+    height: 165px;
+}
+.redimensionarImagemModal{
+	width: 260px;
+    height: 360px;
+}
+
+#carousel-imagens{
+    width: 80%;
+    left: 20%;
+}
+
+.labelModal{
+    font-weight: bold;
+}
+
+#detalhesLivro{
+    width: 100%;
+}
+
+#caixaDeImagens{
+    width: 35%;
+    float: left;
+}
+
+#labelDetalhes{
+    width: 60%;
+    float: left;
+	margin-left: 1%;
+	margin-bottom: 0;
+}
+
+#tituloLivro{
+    font-weight: bold;
+    margin-left: 27%;
+    font-size: 20px;
+}
+
+
+

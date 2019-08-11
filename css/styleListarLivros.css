@@ -1,0 +1,257 @@
+
+#navbar{
+    padding: 0% auto;
+}
+
+#container{
+    position: absolute;
+    width: 90%;
+    left: 10%;
+    margin-top: 0%;
+}
+
+.containerInterno{
+	float: left;
+	width: 270px;
+	height: 260px;
+	margin: 0% 0.1% 0.7% 0.2%;
+	padding: 5px 4px 5px 4px;
+	border: 2px solid #cecece;
+    border-radius: 5px;
+}
+.card_livro{
+	float: left;
+    margin: 0%  2% 0 0;
+    width: 48%;
+    cursor: pointer;
+    background-color: white;
+}
+
+.card_livro img{
+    width: 99%;
+	margin: 1%;
+	height: 200px;
+}
+
+.card_livro img:hover{
+    -webkit-transform: scale(1.3);
+    transition: 0.5s;
+}
+
+.divInformacoes{
+	float: left;
+    margin: 0%  0.2% 0.5% 1%;
+	width: 48%;
+	/* height: 240px; */
+}
+
+.divInformacoes h3{
+	width: 100%;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.divInformacoes h4{
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.divBotoes{
+	float: left;
+	margin-bottom: 0%;
+	width: 100%;
+}
+
+.button{
+	width: 48%;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+	cursor: pointer;
+	padding: 5px;
+}
+
+.buttonVerEditar{
+	float: right;
+    background-color: #37d471;
+}
+
+.buttonExcluir{
+	float: left;
+    background-color: red;
+}
+
+.redimensionarImagem{
+	width: 200px;
+    height: 165px;
+}
+.redimensionarImagemModal{
+	width: 260px;
+    height: 360px;
+}
+
+#carousel-imagens{
+    width: 80%;
+    left: 20%;
+}
+
+.labelModal{
+    font-weight: bold;
+}
+
+#detalhesLivro{
+    width: 100%;
+}
+
+#caixaDeImagens{
+    width: 35%;
+    float: left;
+}
+
+#labelDetalhes{
+    width: 60%;
+    float: left;
+	margin-left: 1%;
+	margin-bottom: 0;
+}
+
+#tituloLivro{
+    font-weight: bold;
+    margin-left: 27%;
+    font-size: 20px;
+}
+
+#btnSalvar{
+    position: relative;
+    left: 20%;
+    margin-top: 8%;
+    background-color: rgb(23, 139, 247);
+    border: none;
+    color: white;
+    padding: 8px;
+    font-weight: bolder;
+    font-size: 13pt;
+    border-radius: 5px;
+    width: 70%;
+    margin-bottom: 0%;
+    float: left;
+}
+
+
+/* .col3{
+	width: 940px;
+	margin:  0 auto;
+	overflow: auto;
+	padding: 5px 0;
+}
+
+
+#container{
+	width: 80%;
+	margin-top: 2%; 
+	margin-left: 20%; 
+	text-align: center;
+}
+#form{
+	display: none;
+	width: 50%;
+	position: absolute;
+	top: 5%;
+	left: 25%;
+	border: 2px solid #808080;
+	background-color: white;
+	transition-duration: 5s;
+	position: absolute;	 
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+#form legend{
+	font-size: 25px;
+	font-weight: bolder;
+	margin-bottom: 10px;
+}
+
+#form input{
+	width: 70%;
+	font-size: 15px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+#form h3{
+	margin: 0;
+	margin-top: 8px;
+	font-size: 18px;
+	text-align: left;
+
+	margin-left: 15%;
+	color: black;
+}
+
+.configButonSalvarEditar{
+	background-color: #16CB58;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btnAdd{
+	padding: 10px;
+	font-size: 15pt;
+}
+
+.bt_Editar{
+	padding: 5px 10px;
+	font-size: 15px;
+}
+
+.configButonCancelarExcluir{
+	background-color: #DF2222;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btnCancelar{
+	padding: 10px;
+	font-size: 15pt;
+}
+
+.bt_Excluir{
+	padding: 5px 10px;
+	font-size: 15px;
+}
+
+#legendListaLivros{
+	float: center;
+}
+
+
+.table_list{
+	clear: both;
+	width: 80%;
+	left: 20%;
+}
+.table_list th{
+	background-color: mintcream;
+}
+.table_list tr:hover{
+	background-color: #F5F5F5;
+}  */
+

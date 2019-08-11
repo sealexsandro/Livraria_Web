@@ -1,0 +1,20 @@
+
+body{
+    background: url(../img/livros.png)no-repeat;
+    background-position-y: -10%;
+    background-position-x: 2%;
+    background-size: 75%;
+}
+
+#info{
+    width: 50%;
+    left: 30%;
+    float: right;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+
+.textoinfo{
+    font-size: 15pt;
+
+}

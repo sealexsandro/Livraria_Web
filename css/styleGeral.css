@@ -1,0 +1,86 @@
+
+@font-face {
+	src: url(fonts/open_sans/Roboto-Regular.ttf);
+	font-family: 'Roboto';    
+	font-weight: normal;
+}
+
+.navbar{
+	padding: 5px 0 0 5px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	margin: 0.1% 1% 0.5% 2%;
+}
+
+#logo{
+	font-size: 27px;
+	margin: 0.1% 1% 0.5% 2%;
+	color: lavender;
+	font-weight: bolder;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+.nav-link{
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+.colunaDeDivisao{
+	float: left;
+}
+
+.col1{
+	width: 15%;
+}
+.col2{
+	width: 65%;
+}
+
+/* Nas clases pesquisa, texto e btnPesquisar, são funcionalidades da busca de livros */
+#pesquisa{
+	width: 100%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+#texto{
+    width: 40%;
+	height: 40px;
+	margin-top: 0;
+	margin-left: 30%; 
+	margin-bottom: 0.5%;
+    float: left;
+    font-family: 'Arial';
+    font-size: 20px;
+}
+#btnPesquisar{
+    width: 35px;
+    height: 40px;
+    background-color: #2f4550;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.logout{
+	float: right;
+	width: 20%;
+	font-size: 22px;
+	margin: 0.5% 1.1% 0.5% 1%;
+	text-align: right;
+}
+
+.footer{
+	text-align: center;
+	/* background-color: #015285 */
+	background: #064580;
+	color: #ebebeb;
+	height: 40px;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+}
